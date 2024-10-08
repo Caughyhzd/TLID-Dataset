@@ -1,4 +1,4 @@
-# TLID-Dataset
+# TLID-Transmission Line Insulation Defect Dataset
 Towards Defect Detection of Transmission Line Insulator.
 
 
