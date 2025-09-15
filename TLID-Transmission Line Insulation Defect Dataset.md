@@ -16,25 +16,25 @@ Fig.1 The insulator defects (damage and drop) under complex environmental pose h
 
 ### **2. The Detailed Composition of TLID Dataset**
 
-![TLID](.\images\TLID.jpg)
+![TLID](./images/TLID.jpg)
 
 Fig.2 The detailed composition of TLID dataset. The TLID dataset is meticulously designed, encompassing several key aspects: (a) diverse materials, (b) complex and diverse backgrounds and (c) different distances and scales.
 
-![SCale](.\images\SCale.jpg)
+![SCale](./images/SCale.jpg)
 
 Fig.3 Scale distribution of defect samples in the TLID dataset. (a) The scale distribution of damage samples. (b) The scale distribution of drop samples.
 
 ### **3. Benchmark Results on The TLID Dataset**
 
-![result](.\images\result.jpg)
+![result](./images/result.jpg)
 
 ### **4. Comparison with Other Datasets**
 
-![duibi](.\images\duibi.jpg)
+![duibi](./images/duibi.jpg)
 
 Fig.4 Comparison of Insulator and Defect Images from Various Datasets: The defect images in the CPLID dataset are artificially synthesized (1st row). The STN PLAD dataset images lack defective samples and feature a uniform background (2nd row). The DINS dataset consists of defect images from other publicly available datasets, as well as additional artificially synthesized defects (3rd row). In contrast, the dataset we propose is comprised of samples collected from multiple real-world environments (4th row).
 
-![table1](.\images\table1.jpg)
+![table1](./images/table1.jpg)
 
 ### **5. Challenges and Open Issues**
 
@@ -57,6 +57,7 @@ If you wish to utilize the TLID dataset for research in power vision, please con
 My E-mail:
 
 caughyhzd@foxmail.com
+
 
 
 
