@@ -10,7 +10,7 @@ we introduce the Transmission Line Insulation Defect (TLID) dataset, designed fo
 
 ### **1. Insulator structural defect images captured by UAVs**
 
-![UAVS](.\images\UAVS.jpg)
+![UAVS](./images/UAVS.jpg)
 
 Fig.1 The insulator defects (damage and drop) under complex environmental pose hidden risks to the stable operation of transmission lines.
 
@@ -57,6 +57,7 @@ If you wish to utilize the TLID dataset for research in power vision, please con
 My E-mail:
 
 caughyhzd@foxmail.com
+
 
 
 
