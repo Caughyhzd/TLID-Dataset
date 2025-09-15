@@ -57,8 +57,8 @@ If you wish to utilize the TLID dataset for research in power vision, please con
 My E-mail:
 
 caughyhzd@foxmail.com
+https://pan.baidu.com/s/14bE-xFIsIetR7ir5z6H9tA 
 
-https://pan.baidu.com/s/1fnR2dzBOU3VLMsPl9M8kMA
 
 
 
