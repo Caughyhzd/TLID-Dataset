@@ -58,6 +58,7 @@ My E-mail:
 
 caughyhzd@foxmail.com
 
+Please note that the paper "Towards Defect Detection of Transmission Line Insulator: A Dataset, Benchmarks and Challenges" to which TLID belongs has been accepted by ICPRE2025. Research conducted using this dataset requires referencing this paper.
 
 
 
