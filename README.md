@@ -52,13 +52,14 @@ In complex backgrounds such as forests, farmlands, or cities, existing models st
 
 ### 6. Download
 
-If you wish to utilize the TLID dataset for research in power vision, please contact me via email. In your request, kindly indicate your full name and affiliated institution. Upon receipt and verification of your application, I will provide you with a reply containing the official download link for the TLID dataset.
+If you wish to utilize the TLID dataset for research in power vision, please contact me via a formal email as the applicant. In your request, kindly indicate your full name and affiliated institution. Upon receipt and verification of your application, I will provide you with a reply containing the official download link for the TLID dataset.
 
 My E-mail:
 
 caughyhzd@foxmail.com
 
 Please note that the paper "Towards Defect Detection of Transmission Line Insulator: A Dataset, Benchmarks and Challenges" to which TLID belongs has been accepted by ICPRE2025. Research conducted using this dataset requires referencing this paper.
+
 
 
 
